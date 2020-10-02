@@ -31,3 +31,4 @@ python_prepare_all() {
 python_install_all() {
 	distutils-r1_python_install_all
 }
+{atom is ready}
